@@ -9,7 +9,4 @@
 hello world  hey baby
 </body>
 </head>
-<body>
-
-</body>
 </html>
